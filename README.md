@@ -12,7 +12,7 @@ Es muy importante llegar al **100% de acierto en la detección de las piezas de 
 
 Los pasos para llevar a cabo el ejercicio son:
 
-1. Descargar fotos: https://www.kaggle.com/datasets/joosthazelzet/lego-brick- images
+1. Descargar fotos: https://www.kaggle.com/datasets/joosthazelzet/lego-brick-images
 1. Entrenar los modelos de machine learning para reconocer las piezas
 1. Validar el resultado ejecutando pruebas manualmente
 
